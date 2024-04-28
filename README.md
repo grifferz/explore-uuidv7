@@ -1,4 +1,4 @@
-# explore-uuidv
+# explore-uuidv7
 
 Just some noodling about with UUIDv7 and representations of it in Base58.
 
